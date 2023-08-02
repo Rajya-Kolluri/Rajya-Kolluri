@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rajya-Kolluri, I am a sophomore majoring in Computer Science with a minor in Applied Mathematics at Southern New Hampshire University
+- 👀 I’m interested in coding and cool computer stuff
+- 🌱 I’m currently learning Computer science courses
+- 📫 How to reach me: LinkedIn: www.linkedin.com/in/rajya-lakshmi-sahithi-kolluri-98ba95237
