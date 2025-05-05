@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rajya-Kolluri, I am a senior majoring in Computer Science with a minor in Applied Mathematics at Southern New Hampshire University
+- 👋 Hi, I’m @Rajya-Kolluri, a recent graduate from SNHU with a Bachelors in Computer Science, concentration in ML and a minor in Applied Mathematics
+- Actively looking for full time opportunities in Software Full Stack Development and Testing
 - 👀 I’m interested in coding and cool computer stuff
-- 🌱 I’m currently learning Computer science courses
-- 📫 How to reach me: LinkedIn: www.linkedin.com/in/rajya-lakshmi-sahithi-kolluri-98ba95237
+- 📫 How to reach me: LinkedIn: www.linkedin.com/in/rajyakolluri
